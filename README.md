@@ -38,4 +38,4 @@ This repository contains my work on the **Time Series Data Visualization and Ana
 This project was completed as part of a Coursera Guided Project on Time Series Analysis.
 
 ## Connect with Me
-Feel free to connect with me on LinkedIn: [Pradeep Rajan](Your LinkedIn URL)
+Feel free to connect with me on LinkedIn: [Pradeep Rajan](https://www.linkedin.com/in/pradeeprajans)
