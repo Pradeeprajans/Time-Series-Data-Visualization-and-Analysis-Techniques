@@ -23,7 +23,7 @@ This repository contains my work on the **Time Series Data Visualization and Ana
 
 ## Project Files
 - `time_series_analysis.ipynb` – Jupyter Notebook containing the full analysis
-- `data.csv` – Dataset used for the project
+- `dataset.csv` – Dataset used for the project
 - `README.md` – Project documentation
 
 ## How to Run the Project
